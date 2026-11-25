@@ -2384,11 +2384,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ciência_Da_Computação\\Quarto_Semestre\\Desenvolvimento_De_Software_Visual\\Sistema_Estudos\\Sistema_Estudos.API\\Sistema_Estudos.API.csproj",
+      "projectUniqueName": "D:\\Ciência_Da_Computação\\Quarto_Semestre\\Desenvolvimento_De_Software_Visual\\Sistema_Estudos\\Sistema_Estudos\\Sistema_Estudos.API\\Sistema_Estudos.API.csproj",
       "projectName": "Sistema_Estudos.API",
-      "projectPath": "D:\\Ciência_Da_Computação\\Quarto_Semestre\\Desenvolvimento_De_Software_Visual\\Sistema_Estudos\\Sistema_Estudos.API\\Sistema_Estudos.API.csproj",
+      "projectPath": "D:\\Ciência_Da_Computação\\Quarto_Semestre\\Desenvolvimento_De_Software_Visual\\Sistema_Estudos\\Sistema_Estudos\\Sistema_Estudos.API\\Sistema_Estudos.API.csproj",
       "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "D:\\Ciência_Da_Computação\\Quarto_Semestre\\Desenvolvimento_De_Software_Visual\\Sistema_Estudos\\Sistema_Estudos.API\\obj\\",
+      "outputPath": "D:\\Ciência_Da_Computação\\Quarto_Semestre\\Desenvolvimento_De_Software_Visual\\Sistema_Estudos\\Sistema_Estudos\\Sistema_Estudos.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
